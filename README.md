@@ -1,6 +1,6 @@
 # Finding Counterfactually Optimal Action Sequences in Continuous State Spaces
 
-This is the code for the paper "Finding Counterfactually Optimal Action Sequences in Continuous State Spaces", currently under submission. A preliminary version can be found on [arXiv](https://arxiv.org/abs/2306.03929).
+This repository contains the code used in the paper ["Finding Counterfactually Optimal Action Sequences in Continuous State Spaces"](https://arxiv.org/abs/2306.03929), published at NeurIPS 2023.
 
 ## Dependencies
 
