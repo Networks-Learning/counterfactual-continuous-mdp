@@ -35,9 +35,9 @@ The directory [outputs](outputs/) and its sub-directories are used for saving th
 
 If you use parts of the code in this repository for your own research, please consider citing:
 
-    @article{tsirtsis2023finding,
+    @inproceedings{tsirtsis2023finding,
         title={Finding Counterfactually Optimal Action Sequences in Continuous State Spaces},
         author={Tsirtsis, Stratis and Gomez-Rodriguez, Manuel},
-        journal={arXiv preprint arXiv:2306.03929},
+        booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
         year={2023}
     }
